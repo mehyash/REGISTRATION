@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable form
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Clear
+id TAge
+id TName
+id age
+id cfemale
+id cmale
+id gender
+id name
+id result
+id submit
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Age
+string G1
+string G2
+string Gender
+string Name
+string app_name
+style Base.Theme.FORM
+style Theme.FORM
+xml backup_rules
+xml data_extraction_rules
